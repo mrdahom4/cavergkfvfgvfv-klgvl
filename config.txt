@@ -1,5 +1,5 @@
-token= NjI1MDE1MjM5OTU5OTA0Mjc1.XYZs8g.yH5AvHJ7cCDRuoqYcB7jzwCXQmM
-owner= 533066582662971398
+token=NjI1MDE1MjM5OTU5OTA0Mjc1.XYZs8g.yH5AvHJ7cCDRuoqYcB7jzwCXQmM
+owner=533066582662971398
 prefix= 1
 game= 1play
 stayinchannel=true
